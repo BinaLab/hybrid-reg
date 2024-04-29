@@ -1,1 +1,1 @@
-Training is through ```trainscripts.sh``` and ```thickness_regression.py```. Inference is through ```inference.py```
+Training is through ```trainscripts.sh``` and inference is through ```inference.py```
